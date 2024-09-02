@@ -6,8 +6,7 @@ An evaluation test on the understanding of basic python concepts covered.
 
 ### Prerequisites
 
--Python or Python3
--Any text editor preferably Visual Studio
+-Python or Python3 and any text editor preferably Visual Studio
 
 
 
